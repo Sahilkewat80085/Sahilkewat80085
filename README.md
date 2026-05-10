@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="left">I'm Sahil Kewat, a software developer passionate about building intelligent systems, scalable applications, and experimenting with emerging technologies. Most of my time goes into turning ambitious ideas into real projects, usually somewhere between machine learning, full-stack development, and agentic AI.</h6>
+<h4 align="left">I'm Sahil Kewat, a software developer passionate about building intelligent systems, scalable applications, and experimenting with emerging technologies. Most of my time goes into turning ambitious ideas into real projects, usually somewhere between machine learning, full-stack development, and agentic AI.</h4>
 
 ###
 
