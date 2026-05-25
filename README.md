@@ -94,23 +94,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-<h2 align="left">GitHub Stats</h2>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
-</div>
-
 ---
 
 <h2 align="left">Contribution Graph</h2>
 
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahilkewat80085&theme=tokyo-night)](https://github.com/Sahilkewat80085)
 
 ---
 
