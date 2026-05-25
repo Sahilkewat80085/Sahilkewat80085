@@ -98,7 +98,7 @@
 
 <h2 align="left">Contribution Graph</h2>
 
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahilkewat80085&theme=tokyo-night)](https://github.com/Sahilkewat80085)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahilkewat80085&theme=tokyo-night)](https://github.com/Sahilkewat80085)
 
 ---
 
