@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+  <img height="200" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhsZ3ZzamwyaTR5Zm1qemJtb2c2b25rb2JmNWdvc2htcmx3MDNhayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/itMtKey6cL6MTyuqhB/giphy.gif)"  />
 </div>
 
 ###
@@ -9,14 +9,6 @@
 ###
 
 <h4 align="left">I'm Sahil Kewat, a software developer passionate about building intelligent systems, scalable applications, and experimenting with emerging technologies. Most of my time goes into turning ambitious ideas into real projects, usually somewhere between machine learning, full-stack development, and agentic AI.</h4>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🤖 Building projects around Machine Learning, NLP, and Agentic AI<br>💻 Focused on full-stack development and scalable backend systems<br>🚀 Love participating in hackathons and building under pressure<br>🧠 Currently exploring multi-agent systems, LLM workflows, and AI infrastructure<br>🔧 Enjoy designing systems that solve practical real-world problems<br>🌙 Most productive when debugging something at 2 AM<br>📚 Strong believer in continuous learning and hands-on experimentation<br>⚡ Built projects involving ML pipelines, blockchain systems, autonomous agents, and real-time analytics<br>🎯 Interested in AI engineering, system design, and intelligent automation<br>☕ Powered by curiosity, caffeine, and way too many browser tabs</p>
 
 ###
 
